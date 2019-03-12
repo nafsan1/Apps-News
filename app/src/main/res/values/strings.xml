@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hacker News</string>
+    <string name="title_home">Home</string>
+    <string name="favorites">Favourites</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
